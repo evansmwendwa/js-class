@@ -30,3 +30,6 @@ Please note the following myths and common assumptions
 * JavaScript is the same as Java - this is false. Java is another programming language and syntax for both languages is different and not compatible.
 * JQuery is JavaScript - not a full argument, JQuery is a JavaScript library, that means Jquery is not a programming language but rather a set of functions/methods that are written in the JavaScript language.
 * JavaScript is only in the frontend - that's false, in todays world JavaScript can run almost in all types of computer systems from watches, phones, server side e.t.c NodeJS is a JavaScript based web server that allows us to write complete backends with only JavaScript.
+
+
+**Next Lesson:** [Lesson 2 - Scripting](https://github.com/evansmwendwa/js-class/blob/master/02-Scripting.md)
