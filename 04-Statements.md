@@ -90,3 +90,4 @@ function myFunction() {
 }
 ```
 
+> **< Previous Lesson** ([Lesson 3 - Syntax](https://github.com/evansmwendwa/js-class/blob/master/03-JS%20Syntax.md)) **| Next Lesson >** ([Lesson 5 - Keywords](https://github.com/evansmwendwa/js-class/blob/master/05-Keywords.md))
