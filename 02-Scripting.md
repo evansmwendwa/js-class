@@ -90,3 +90,5 @@ console.log('JavaScript is running ok!');
 ```
 
 **Note:** you can also execute small amounts of code by typing it directly in the console panel and pressing the `Return` Key.
+
+> **< Previous Lesson** ([Lesson 1 - Introduction](https://github.com/evansmwendwa/js-class/blob/master/01-Introduction.md)) **| Next Lesson >** ([Lesson 3 - Syntax](https://github.com/evansmwendwa/js-class/blob/master/03-JS%20Syntax.md))
