@@ -179,3 +179,5 @@ FirstName, LastName, MasterCard, InterCity.
 ``` javascript
 firstName, lastName, masterCard, interCity.
 ```
+
+> **< Previous Lesson** ([Lesson 2 - Scripting](https://github.com/evansmwendwa/js-class/blob/master/02-Scripting.md)) **| Next Lesson >** ([Lesson 4 - Statements](https://github.com/evansmwendwa/js-class/blob/master/04-Statements.md))
