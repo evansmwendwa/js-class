@@ -14,7 +14,7 @@ JavaScript statements are separated by **semicolons**:
 
 ### Example
 
-```
+``` javascript
 var x, y, z;
 x = 5;
 y = 6;
@@ -36,7 +36,7 @@ Fixed values are called literals. Variable values are called variables.
 The most important rules for writing fixed values are:
 
 Numbers are written with or without decimals:
-```
+``` javascript
 10.5
 1000
 0.562
@@ -45,7 +45,7 @@ Numbers are written with or without decimals:
 ```
 
 Strings are text, written within double or single quotes:
-```
+``` javascript
 "John Doe"
 'Jane Doe'
 ```
@@ -59,7 +59,7 @@ An equal sign is used to assign values to variables.
 
 In this example, x is defined as a variable. Then, x is assigned (given) the value 6:
 
-```
+``` javascript
 var x;
 x = 6;
 ```
@@ -67,11 +67,11 @@ x = 6;
 ## JavaScript Operators
 JavaScript uses arithmetic operators ( + - *  / ) to compute values:
 
-```
+``` javascript
 (5 + 6) * 10
 ```
 JavaScript uses an assignment operator ( = ) to assign values to variables:
-```
+``` javascript
 var x, y;
 x = 5;
 y = 6;
@@ -83,12 +83,12 @@ An expression is a combination of values, variables, and operators, which comput
 The computation is called an evaluation.
 
 For example, 5 * 10 evaluates to 50:
-```
+``` javascript
 5 * 10
 ```
 
 Expressions can also contain variable values:
-```
+``` javascript
 var x;
 x = 5;
 x * 10;
@@ -97,7 +97,7 @@ The values can be of various types, such as numbers and strings.
 
 For example, "John" + " " + "Doe", evaluates to "John Doe":
 
-```
+``` javascript
 "John" + " " + "Doe"
 ```
 
@@ -107,7 +107,7 @@ JavaScript **keywords** are used to identify actions to be performed.
 
 The **var** keyword tells the browser to create variables:
 
-```
+``` javascript
 var x, y;
 x = 5 + 6;
 y = x * 10;
@@ -123,7 +123,7 @@ Comments are ignored, and will not be executed:
 
 Comments can be used to describe what you code does.
 
-```
+``` javascript
 var x = 5;   // I will be executed
 
 // var x = 6;   I will NOT be executed
@@ -150,7 +150,7 @@ All JavaScript identifiers are **case sensitive**.
 
 The variables **lastName** and **lastname**, are two different variables.
 
-```
+``` javascript
 var lastname, lastName;
 lastName = "Doe";
 lastname = "Peterson";
@@ -161,21 +161,21 @@ lastname = "Peterson";
 Historically, programmers have used three ways of joining multiple words into one variable name:
 
 **Hyphens:**
-```
+``` javascript
 first-name, last-name, master-card, inter-city.
 ```
 > Hyphens are not allowed in JavaScript. It is reserved for subtractions.
 
 **Underscore:**
-```
+``` javascript
 first_name, last_name, master_card, inter_city.
 ```
 
 **Camel Case:**
-```
+``` javascript
 FirstName, LastName, MasterCard, InterCity.
 ```
 > JavaScript programmers tend to use camel case that starts with a lowercase letter:
-```
+``` javascript
 firstName, lastName, masterCard, interCity.
 ```
