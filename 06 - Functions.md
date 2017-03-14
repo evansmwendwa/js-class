@@ -1,4 +1,4 @@
-##What is a function?
+## What is a function?
 
 A function is a piece of code that sits dormant until it is referenced or called upon to do its "function".
 In addition to controllable execution, functions are also a great time saver for doing repetitive tasks.
@@ -6,7 +6,7 @@ In addition to controllable execution, functions are also a great time saver for
 Instead of having to type out the code every time you want something done, you can simply call the function multiple times to get 
 the same effect. This benefit is also known as "code reusability".
 
-##Example Function in JavaScript
+## Example Function in JavaScript
 Creating a function is really quite easy. All you have to do is tell the browser you're making a function, give the function a name, 
 and then write the JavaScript like normal. Below is the example alert function from the previous lesson.
 
@@ -35,7 +35,7 @@ which brings up a popup box with the text that we supply it. It is perfectly OK 
 
 In order to get the function executed when we click the button we used the `click`. The click is called an event. There are many types of events that represent different user interactions with your web page.
 
-##Events in JavaScript
+## Events in JavaScript
 The building blocks of an interactive web page is the JavaScript event system. An event in JavaScript is something that happens with or on the webpage. A few example of events:
 
 * A mouse click
@@ -44,7 +44,7 @@ The building blocks of an interactive web page is the JavaScript event system. A
 * Selecting an input box in an HTML form
 * A keystroke
 
-##Examples using Events
+## Examples using Events
 
 JavaScript has predefined names that cover numerous events that can occur, including the ones listed above. To capture an event and make something happen when that event occurs, you must specify the event, the HTML element that will be waiting for the event, and the function(s) that will be run when the event occurs.
 
