@@ -67,13 +67,13 @@ function myFunction() {
 }
 ```
 
-####External JavaScript Advantages
+#### External JavaScript Advantages
 Placing scripts in external files has some advantages:
 * It separates HTML and JavaScript code
 * It makes HTML and JavaScript easier to read and maintain
 * External JS files can be cached by the browser hence speeding up page loads
 
-###Debugging JavaScript
+### Debugging JavaScript
 When writing your applications you will need a way to debug and figure our when errors occur. Most browsers provide developer tools that allow you to test different scenarios and execute code that only you the developer can see.
 
 The best tool for this is the browser console which display errors and console logs.
